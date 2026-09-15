@@ -1,8 +1,3 @@
-
-João Victor Guidetti Bartz
-08:38 (há 1 minuto)
-para mim
-
 function somar() {
     let numero1 = Number(document.getElementById("numero1").value);
     let numero2 = Number(document.getElementById("numero2").value);
